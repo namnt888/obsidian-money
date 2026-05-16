@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-money",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "backend"
+  ],
+  "scripts": {
+    "dev:backend": "npm --workspace backend run dev",
+    "build:backend": "npm --workspace backend run build"
+  }
+}

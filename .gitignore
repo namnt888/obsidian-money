@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/core-plugins.json
+vault/.trash/
