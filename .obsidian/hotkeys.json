@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:vault/00_System/Templates/Action_Parse_Txn.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+- [x] Mua sách 100k 🧠 *(Đã parse)*
+- [x] Nhận lương tháng này 15 củ vào thẻ VCB 🧠 *(Đã parse)*
+- [x] Cho anh Tuấn mượn 500k tiền ăn trưa 🧠 *(Đã parse)*
+- [x] Trả tiền cafe hôm trước cho Huyền 65k qua Momo 🧠 *(Đã parse)*
+- [x] Mua sách 120k 🧠 *(Đã parse)*
